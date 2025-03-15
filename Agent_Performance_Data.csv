@@ -1,0 +1,12 @@
+Agent Name,Total Tickets Resolved,Average Resolution Time (hours),Reopened Tickets,Pending Tickets,On Leave,Agent Work Hours (Logged vs Allowed),First Response Time (hours),Customer Satisfaction Score,No. of Interactions (Responses + Notes),Escalated Tickets,Performance Rating,Job Competence,Ticket/Response Quality,Innovation and Creativity,Adaptability,Professional Knowledge
+Rahul,8,1.98,4,1,1,0,2.59,4,15,3,1,1,1,1,1,0
+Jaun,5,2.9,1,5,1,0,0.95,2,44,2,4,0,1,1,1,0
+Rachana,10,2.06,1,0,1,1,0.59,5,23,1,2,1,0,0,1,0
+Alejandro,9,2.79,2,0,0,0,1.54,5,16,0,2,1,1,0,0,0
+Grace,9,2.59,2,1,0,0,2.58,5,41,2,3,1,1,1,1,0
+Janelle,9,1.9,3,1,1,1,1.01,2,39,0,5,1,0,0,0,0
+Laura,8,1.52,2,3,0,0,0.71,5,50,1,4,0,0,1,1,0
+Pablo,18,2.05,0,3,0,0,2.56,5,28,3,2,0,0,0,0,1
+Ana,8,2.64,2,1,1,1,2.25,3,39,1,1,0,0,1,0,1
+Alyssa,10,1.59,2,2,1,0,2.27,3,31,0,4,1,0,0,0,0
+Kate,15,2.06,2,0,1,0,1.31,1,25,1,3,1,0,0,1,1
